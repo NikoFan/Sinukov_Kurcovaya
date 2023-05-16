@@ -1,0 +1,26 @@
+#header{
+  background: #D8E3AB;
+  font-size: 36px;
+  padding-top: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+html {
+
+background-image: url(bg.jpg);
+
+background-repeat: no-repeat;
+
+background-position: center center;
+
+background-attachment: fixed;
+
+-webkit-background-size: cover;
+
+-moz-background-size: cover;
+
+-o-background-size: cover;
+
+background-size: cover;
+
+}
